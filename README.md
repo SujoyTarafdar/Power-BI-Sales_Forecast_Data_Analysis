@@ -1,4 +1,4 @@
-# Power-BI-Sales_Forecast_Data_Analysis
+# PowerBI-Sales_Forecast_Analysis
 Power BI Sales_Forecast_Data_Analysis
 
 Sales Analysis Dashboard
